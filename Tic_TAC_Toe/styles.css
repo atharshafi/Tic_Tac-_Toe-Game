@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(2, 47, 84);
+
+}
+.header {
+    background-color: rgb(216, 194, 166);
+    text-align: center;
+  }
+.Buttons{
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
+.btns{
+    gap: 300px;
+    width: 150px;
+    height: 150px;
+    font-size: 40px;
+   border-color: black;
+   border-radius:10px ;
+   
+}
+.btnsR0, .btnsR1, .btnsR2 {
+    display: flex;
+    justify-content: center; /* Center buttons horizontally */
+    gap: 10px; /* Gap between buttons */
+    margin-bottom: 10px; /* Space between rows */
+}
+#reset{
+    font-size:25px;
+    text-align:center;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 2mm;
+}
+#nwbtn{
+    font-size:25px;
+    text-align:center;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 2mm;
+}
+.hide{
+    display: none;
+}
+
+
